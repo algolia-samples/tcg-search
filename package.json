@@ -46,6 +46,6 @@
     "eslint": "^8.35.0",
     "eslint-plugin-react": "^7.32.2",
     "react-scripts": "^5.0.1",
-    "vercel": "^50.9.6"
+    "vercel": "^50.31.1"
   }
 }
